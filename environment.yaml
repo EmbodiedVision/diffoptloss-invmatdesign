@@ -1,0 +1,27 @@
+channels:
+- conda-forge
+- https://software.repos.intel.com/python/conda/
+- nodefaults
+dependencies:
+- python=3.12
+- pytorch-gpu=2.5.1
+- torchvision
+- numpy
+- scipy
+- scikit-learn
+- scikit-image
+- ipython
+- pip
+- diffusers=0.30
+- einops
+- matplotlib
+- pyvista
+- pandas
+- ema_pytorch
+- ipykernel
+- mkl-static # intel
+- intel-openmp # intel
+- tqdm
+- pip:
+  - wandb
+  - positional-encodings[pytorch]
