@@ -3,7 +3,7 @@
 This repository provides source code accompanying the following publication:
 
 *Jens U. Kreber, Christian Weißenfels and Joerg Stueckler, "**Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design**"*
-*In **Transactions on Machine Learning Research**, 2026. to appear.*
+*In **Transactions on Machine Learning Research**, 2026. to appear*. Preprint: https://arxiv.org/abs/2602.15648
 
 If you use the source code provided in this repository for your research, please cite the corresponding publication as:
 ```
@@ -12,7 +12,7 @@ If you use the source code provided in this repository for your research, please
   title       = {Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design},
   journal     = {Transactions on Machine Learning Research},
   year        = {2026},
-  note        = {to appear},
+  note        = {to appear, preprint at https://arxiv.org/abs/2602.15648},
   doi={}
 }
 ```
